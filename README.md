@@ -36,19 +36,19 @@ To note, news coverage will still be distributed through physical and televised 
 In conclusion, as newspapers dwindle in popularity as new generations breed off of online platforms and the internet, the industry must follow suit towards a new method in providing and distributing information to the public, which has even remarkably improved on a global scale. Online news sites and social media are just the beginning innovations that will pioneer the forthcoming ideas that would want to combat existing markets and to successfully build and alter the rate of change of technical development that appeals to the changing society and times. As disruptive as it is as an innovation, online news sites and social media have become increasingly more relevant and useful for the public than it did during news’ providers gradual migration to electronic then to digital.
 
 ## REFERENCES:
-Deseret News. (1980, June 27-28). 11 newspapers join electronics trial. https://news.google.com/newspapers?id=fDQpAAAAIBAJ&sjid=M4MDAAAAIBAJ&dq=compuserve&pg=7122%2C7819048
+Deseret News. (1980, June 27-28). *11 newspapers join electronics trial*. https://news.google.com/newspapers?id=fDQpAAAAIBAJ&sjid=M4MDAAAAIBAJ&dq=compuserve&pg=7122%2C7819048
 
-Donoghue, K. L. (2016). Social Media News as Disruptive Technology. Retrieved December 04, 2020, from https://ir.inflibnet.ac.in/bitstream/1944/2047/1/43.pdf
+Donoghue, K. L. (2016). *Social Media News as Disruptive Technology*. Retrieved December 04, 2020, from https://ir.inflibnet.ac.in/bitstream/1944/2047/1/43.pdf
 
-Grieco, E. (2020, May 30). Fast facts about the newspaper industry’s financial struggles as McClatchy files for bankruptcy. Pew Research Center. https://www.pewresearch.org/fact-tank/2020/02/14/fast-facts-about-the-newspaper-industrys-financial-struggles/
+Grieco, E. (2020, May 30). *Fast facts about the newspaper industry’s financial struggles as McClatchy files for bankruptcy*. Pew Research Center. https://www.pewresearch.org/fact-tank/2020/02/14/fast-facts-about-the-newspaper-industrys-financial-struggles/
 
-Hendricks, D. (2019, November 25). Complete History of Social Media: Then And Now. Small Business Trends. https://smallbiztrends.com/2013/05/the-complete-history-of-social-media-infographic.html#:~:text=The%20first%20recognizable%20social%20media,sensation%20that's%20still%20popular%20today.
+Hendricks, D. (2019, November 25). *Complete History of Social Media: Then And Now*. Small Business Trends. https://smallbiztrends.com/2013/05/the-complete-history-of-social-media-infographic.html#:~:text=The%20first%20recognizable%20social%20media,sensation%20that's%20still%20popular%20today.
 
-Moore, R. (2019, June 04). 11 Disruptive Innovation Examples (And Why Uber and Tesla Don’t Make the Cut). Openview. https://openviewpartners.com/blog/11-disruptive-innovation-examples-and-why-uber-and-tesla-dont-make-the-cut/?fbclid=IwAR187yirV4DLSMxtHqQaVIV6b0ZVErqAr5NVgt2-KSpERiNGyijOc_un3Lw#.X8oSCmgzbIX
+Moore, R. (2019, June 04). *11 Disruptive Innovation Examples (And Why Uber and Tesla Don’t Make the Cut)*. Openview. https://openviewpartners.com/blog/11-disruptive-innovation-examples-and-why-uber-and-tesla-dont-make-the-cut/?fbclid=IwAR187yirV4DLSMxtHqQaVIV6b0ZVErqAr5NVgt2-KSpERiNGyijOc_un3Lw#.X8oSCmgzbIX
 
-National Research Council. 2010. Persistent Forecasting of Disruptive Technologies Chapter 3: The Nature of Disruptive Technologies. Retrieved December 04, 2020 from https://www.nap.edu/read/12557/chapter/5
+National Research Council. (2010). 3 The Nature of Disruptive Technologies. In *Persistent Forecasting of Disruptive Technologies*. The National Academies Press. doi: 10.17226/12557.
 
-Onikoyi, O. (2020, February 6). Disruptive innovation in the newspaper industry. Medium. https://olaonikoyi.medium.com/disruptive-innovation-in-the-newspaper-industry-9f1ef24a9740
+Onikoyi, O. (2020, February 6). *Disruptive innovation in the newspaper industry*. Medium. https://olaonikoyi.medium.com/disruptive-innovation-in-the-newspaper-industry-9f1ef24a9740
 
-St. Petersburg Times. (1980, February 26). Electronic delivery: the newspaper of the future. https://news.google.com/newspapers?id=GRsmAAAAIBAJ&sjid=dloDAAAAIBAJ&dq=newspapers&pg=6628%2C2657830
+St. Petersburg Times. (1980, February 26). *Electronic delivery: the newspaper of the future*. https://news.google.com/newspapers?id=GRsmAAAAIBAJ&sjid=dloDAAAAIBAJ&dq=newspapers&pg=6628%2C2657830
 ***
