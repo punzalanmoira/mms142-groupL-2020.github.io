@@ -6,6 +6,8 @@
 - PILE, KELSEY TIMMERIE V. (2019-30483)
 - PROTUSADA, JANELLE MICA O. (2017-31124)
 - RADIN, MARJORIE IVANA MARIE C. (2017-30833)
+- QUILARIO, JEREMY ()
+- PUNZALAN, MOIRA ()
 ***
 
 The innovative shift from physical hand-held newspapers to online does not go without criticism. In this report, we discuss how the online distribution of news through online sites, with additional mention to social media, is now a new and common means for how publishers disseminate information to the public, and how these people receive them. We iterate online news sites as one of the many examples of disruptive technology but first and foremost: What is Disruptive Technology?
