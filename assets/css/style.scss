@@ -14,7 +14,6 @@ nav {
 
 nav ul {
   display: inline;
-  position: sticky;
   top: 0;
   list-style-type: none;
   margin: 0;
@@ -23,7 +22,8 @@ nav ul {
 }
 
 nav li{
-  float: right;  
+  float: left;
+  text-align: right;
   border-right: 2px solid #fff;
 }
 
