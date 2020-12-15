@@ -34,7 +34,7 @@ On the other hand, today's technology has also impacted local and international 
 ***
 
 ### [JP](/mms142-groupL-2020.github.io/about) \<Notes\>
-(My research gives support to [AP's notes](#ap-notes). Its focuses on Online News on Social Media)
+(My research gives support to [AP's notes](#ap-notes)). Its focuses on Online News on Social Media)
 
 Assessing technology if it’s disruptive we need to look into its nature.
 
