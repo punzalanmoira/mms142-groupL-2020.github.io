@@ -13,8 +13,7 @@ nav {
 }
 
 nav ul {
-  position: sticky;
-  top: 0;
+  position: fixed;
   display: inline;
   list-style-type: none;
   margin: 0;
