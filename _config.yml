@@ -1,6 +1,8 @@
 theme: jekyll-theme-slate
 title: Online News Sites as Disruptive Technology
 description: This webpage discusses how online distribution of news through online sites, with the addition of social media, is now a new current and common means for publishers to disseminate information to the public, and how people receive these.
+url: "https://punzalanmoira.github.io/mms142-groupL-2020.github.io/"
+markdown: GFM
 show_downloads: False
 navigation:
   - title: Home
