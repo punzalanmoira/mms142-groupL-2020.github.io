@@ -14,12 +14,12 @@ nav {
 nav ul {
   display: inline;
   position: sticky;
-  top: auto;
+  top: 0;
   bottom: auto;
   right: 0;
   list-style-type: none;
   padding: -40px -20px;
-  margin: 0;
+  margin: auto;
   overflow: hidden;
 }
 
