@@ -16,19 +16,19 @@ nav ul {
   top: 0;
   list-style-type: none;
   margin: 0;
-  padding: 0 200 0 200;
   overflow: hidden;
 }
 
 nav li{
   float: right;
   border-right: 2px solid #fff;
+  border-radius: 14px;
 }
 
 nav li a {
   display: block;
   text-align: center;
-  padding: 30px;
+  padding: 10px;
   background: #212121;
   color: #fff;
   font-size: 32px;
