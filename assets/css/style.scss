@@ -2,3 +2,29 @@
 ---
 
 @import "{{ site.theme }}";
+
+#nav {
+  position: absolute;
+  width: 210px;
+  z-index: 10;
+  bottom: -40px;
+  right: 0;
+  height: 70px;
+  background: url('../images/icon_download.png') no-repeat 0% 90%;
+}
+
+#nav table {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+}
+
+#nav a {
+  color: #fff;
+  font-size: 70px;
+  font-weight: 500;
+  text-shadow: #111 0px 0px 10px;
+}
