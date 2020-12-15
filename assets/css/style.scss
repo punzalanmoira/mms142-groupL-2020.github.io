@@ -22,15 +22,14 @@ nav ul {
 }
 
 nav li{
-  float: left;
-  text-align: right;
+  float: right;
   border-right: 2px solid #fff;
 }
 
 nav li a {
   display: block;
   text-align: center;
-  padding: 8px;
+  padding: 0;
   background: #212121;
   color: #fff;
   font-size: 32px;
