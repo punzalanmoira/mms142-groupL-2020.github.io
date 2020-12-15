@@ -5,7 +5,7 @@
 
 nav {
   display: block;
-  padding: 0px 0px;
+  padding: 0px 10px;
   bottom: -40px;
   right: 0;
   height: 70px;
@@ -14,9 +14,11 @@ nav {
 
 nav ul {
   display: inline;
+  position: relative;
+  max-width: 640px;
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 30px;
   overflow: hidden;
 }
 
