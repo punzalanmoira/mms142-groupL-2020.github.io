@@ -88,7 +88,7 @@ To [AP](#ap-notes): Found [2019 stats](https://www.google.com/url?q=https://www.
 ## Drafts
 ### When did the massive shift from newspapers to social media happened?
 (By MDr)
-[Guidelines](#guidelines-and-objectives)
+[Guidelines](#Guidelines-and-Objectives)
 As to when exactly did the massive shift from newspapers to social media happened we can't be so sure.
 
 We can say it started in the 80s, when people started going online on chat rooms, or Internet relay chats (IRC).
