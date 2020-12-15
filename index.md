@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Online News Sites as Disruptive Technology
 ***
 | [Home](index) | [About Us](about) |
