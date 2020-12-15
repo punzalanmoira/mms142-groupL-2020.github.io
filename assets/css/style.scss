@@ -5,8 +5,17 @@
 
 nav {
   display: block;
+  top: 0;
   height: 70px;
+  padding: 0 200 0 200;
   background: #212121;
+}
+
+nav .inner{
+  position: relative;
+  max-width: 640px;
+  padding: 0;
+  margin: 0 auto;
 }
 
 nav ul {
