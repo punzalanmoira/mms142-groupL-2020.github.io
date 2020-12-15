@@ -34,9 +34,11 @@
                 <ul>
                   {% if nav.url contains "://" %}
                     <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
+                  {% else %}
+                    <li><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></li>
                   {% endif %}
-                </ul>
-            {% endfor %}
+                 </ul>
+              {% endfor %}
           </nav>
         </header>
     </div>
