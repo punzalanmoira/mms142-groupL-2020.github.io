@@ -26,7 +26,7 @@ disruptive technology or innovation: Online news sites and their innovative use 
 3. This creative use of technology to deliver news in supplement to the News providers’ websites disrupt the news broadcasting networks and publishing industries alike.
 News providers today utilize online streaming platforms and social media to deliver news to the public. Newscasters can cover an event on-site uninterrupted in real-time with the use of social media platforms such as Twitter and YouTube Live. Majority of today's generation of Information Age rely heavily on online social networking platforms to discover and research more about local and international events. The rise in the use of online platforms to deliver content threatens the necessity of publishing companies and decreases viewership of broadcasting networks.
 
-Addition and opinion on Janelle's note (the passages is marked)[[1]](Notes-&-Drafts-Page#makes-possible-one-or-more-new-technologies-processes-or-applications)[[2]](#alters-the-rate-of-change-of-a-technical-development): I agree, however, I think the demographic gap is also caused by the gap in technological literacy, and usability or accessibility.
+Addition and opinion on Janelle's note (the passages is marked)[[1]](#makes-possible-one-or-more-new-technologies-processes-or-applications)[[2]](#alters-the-rate-of-change-of-a-technical-development): I agree, however, I think the demographic gap is also caused by the gap in technological literacy, and usability or accessibility.
 
 For example, it is easy for the younger generation to find the topics they are interested in without getting lost or confused by the endless hyperlinks and ads. Meanwhile, the older generation, while many are learning to adapt to the latest technology, majority will still not be as savvy in navigating their way through endless articles, headlines and advertisements. The disabilities that people inevitably incur due to old age (e.g., poor vision, loss of color vision (color blindness), loss of hand motor control, etc.) also hinder the oldest generation to migrate to the innovative delivery of news. I think as people age and it becomes harder for them to read small texts from small screens and navigate their way through the maze of the Internet, they become more reliant on the traditional news delivery. Therefore, despite the disruptive impact today's innovative news delivery caused to the pre-existing news media industry, it is unlikely that it will eradicate their existence as they will remain as necessity to people in the long run. Newspaper outlets and publishers will still survive as they provide information to the less privileged areas, unless telecommunications companies successfully expand and improve their coverage that even the most remote areas are provided with adequate internet connection and communication services.
 
@@ -34,7 +34,7 @@ On the other hand, today's technology has also impacted local and international 
 ***
 
 ### [JP](/mms142-groupL-2020.github.io/about) \<Notes\>
-(My research gives support to [AP's notes](Notes-&-Drafts-Page#ap-notes). Its focuses on Online News on Social Media)
+(My research gives support to [AP's notes](#ap-notes). Its focuses on Online News on Social Media)
 
 Assessing technology if it’s disruptive we need to look into its nature.
 
