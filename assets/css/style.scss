@@ -11,19 +11,21 @@ nav {
   background: #212121;
 }
 
-nav .inner{
+nav ul {
+  display: inline;
+  position: sticky;
+  top: 0;
+  list-style-type: none;
+  padding: -40px -20px;
+  margin: 0;
+  overflow: hidden;
+}
+
+nav div .inner{
   position: relative;
   max-width: 640px;
   padding: -50px -20px -40px -20px;
   margin: 0 auto;
-}
-
-nav ul {
-  display: inline;
-  list-style-type: none;
-  padding: -20px -10px;
-  margin: 0;
-  overflow: hidden;
 }
 
 nav li{
