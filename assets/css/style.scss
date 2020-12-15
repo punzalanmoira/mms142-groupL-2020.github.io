@@ -21,6 +21,7 @@ nav ul {
 
 nav li{
   float: right;  
+  border-radius: 14px;
 }
 
 nav li a {
@@ -34,3 +35,11 @@ nav li a {
   text-shadow: #111 0px 0px 10px;
 }
 
+nav li a:hover {
+  background-color: #373737;
+  color: #212121;
+}
+
+.active {
+  background-color: #0F79D0;
+}
