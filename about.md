@@ -8,7 +8,7 @@ layout: default
 ***
 It’s easier to assign roles based on what each member is capable of doing at the moment, so the first section of this Wiki is the About Us Page with the name + role (ex. **FULL NAME (student number)** = research and coding) of each member listed:
 | Member                                          | Skills |
-|:-----------------------------------------------:|--------|
+|:---:|:---:|
 | **PILE, KELSEY TIMMERIE V. (2019-30483)**       | organize, write, and beta (i can help in designing the website although I’m still new to GitHub; don't know how to code) |
 | **DI ROCCO, MAJELLA P. (2013-81801)**           | research and writing. Not familiar with GitHub yet. Very little coding experience.                                       |
 | **PROTUSADA, JANELLE MICA O. (2017-31124)**     | Research: I’m a very fast reader and likes to take notes. Can help in organization if needed. Not familiar with GitHub but open to learning it. |
