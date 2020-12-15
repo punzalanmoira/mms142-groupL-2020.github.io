@@ -1,6 +1,6 @@
 # Online News Sites as Disruptive Technology
 ***
-| [Home](index) | [About Us](aboutus) |
+| [Home](index) | [About Us](about) |
 | :---: | :---: |
 ***
 ## GROUP L:
