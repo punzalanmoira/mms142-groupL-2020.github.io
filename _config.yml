@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+title: MMS 142 Group L
+description: Created for practice
+show_downloads: False
+navigation:
+  - title: Home
+    url: /
