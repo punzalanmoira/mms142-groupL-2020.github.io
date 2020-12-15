@@ -1,4 +1,4 @@
-# mms142-groupL-2020.github.io
+# Online News Sites as Disruptive Technology
 
 ## GROUP L:
 - DI ROCCO, MAJELLA P (2013-81801)
