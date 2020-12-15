@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+# About Us
+***
+| &nbsp;[Home](index)&nbsp; |&nbsp; [About Us](about) &nbsp;|
+|:---:|:---:|
+***
 It’s easier to assign roles based on what each member is capable of doing at the moment, so the first section of this Wiki is the About Us Page with the name + role (ex. **FULL NAME (student number)** = research and coding) of each member listed:
 | Member                                          | Skills |
 |:-----------------------------------------------:|--------|
