@@ -7,3 +7,5 @@ show_downloads: False
 navigation:
   - title: Home
     url: /
+  - title: About Us
+    url: about
