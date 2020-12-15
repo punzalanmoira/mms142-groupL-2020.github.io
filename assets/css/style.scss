@@ -14,7 +14,9 @@ nav {
 nav ul {
   display: inline;
   position: sticky;
-  top: 0;
+  top: auto;
+  bottom: auto;
+  right: 0;
   list-style-type: none;
   padding: -40px -20px;
   margin: 0;
@@ -28,7 +30,7 @@ div #inner{
 }
 
 nav li{
-  float: right;
+  float: left;
   border-right: 2px solid #fff;
   border-radius: 14px;
 }
