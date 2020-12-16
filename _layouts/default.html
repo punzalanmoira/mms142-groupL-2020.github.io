@@ -30,15 +30,14 @@
           {% endif %}
         </header>
         <nav>
-          <div class="topnav">
+          <div class="inner">
             <ul>
-              <li class="inner">
+              <li class="topnav">
                 {% for nav in site.navigation %}
                   {% if nav.url contains "://" %}
                     <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
                   {% else %}
                     <li><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></li>
-                  {% endif %}
                 {% endfor %}
               </li>
             </ul>
