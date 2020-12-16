@@ -66,6 +66,27 @@ nav li a:hover {
   background: #212121;
 }
 
+/**** body #main_content.inner a...?****/
+a {
+  @include word-wrap;
+}
+
+/*********************
+@mixins
+********************/
+
+@mixin word-wrap() {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens:auto;
+  -webkit-hypens: auto;
+  hyphens:auto;
+} /**** @mixin code taken from Coyier, C. (2018, July 25). CSS-Tricks ****/
+
 /****************************
 Added code for smaller devices (codes after 1st block from original css)
 ******************************/
