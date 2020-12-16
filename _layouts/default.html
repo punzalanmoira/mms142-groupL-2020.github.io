@@ -32,8 +32,8 @@
       
         <nav>
            <div class="topnav">
-            <ul>
-              <li class="inner">
+            <ul class="inner">
+              <li>
                 {% for nav in site.navigation %}
                   {% if nav.url contains "://" %}
                     <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
