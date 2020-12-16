@@ -66,10 +66,7 @@ nav li a:hover {
   background: #212121;
 }
 
-/**** body #main_content.inner a...?****/
-a {
-  @include word-wrap;
-}
+
 
 /*********************
 @mixins
@@ -86,6 +83,11 @@ a {
   -webkit-hypens: auto;
   hyphens:auto;
 } /**** @mixin code taken from Coyier, C. (2018, July 25). CSS-Tricks ****/
+
+/**** body #main_content.inner a...?****/
+a {
+  @include word-wrap;
+}
 
 /****************************
 Added code for smaller devices (codes after 1st block from original css)
