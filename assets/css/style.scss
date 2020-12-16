@@ -93,7 +93,10 @@ Added code for smaller devices (codes after 1st block from original css)
 
 @media screen and (max-width: 600px) {
   div.topnav ul.inner, 
-  div.topnav li {float: none;}
+  div.topnav li, li.table {
+    float: none;
+    padding: 0;
+  }
 }
 
   nav li a {font-size: 18px;}
@@ -124,7 +127,10 @@ Added code for smaller devices (codes after 1st block from original css)
   *************/
   
   div.topnav ul.inner, 
-  div.topnav li {float: none;}
+  div.topnav li,  li.table {
+    float: none;
+    padding: 0;
+  }
 
   nav li a {font-size: 16px;}
   
@@ -183,7 +189,10 @@ Added code for smaller devices (codes after 1st block from original css)
   ***************************/
   
   div.topnav ul.inner, 
-  div.topnav li {float: none;}
+  div.topnav li, li.table {
+    float: none;
+    padding: 0;
+  }
 
   nav li a {font-size: 14px;}
   
