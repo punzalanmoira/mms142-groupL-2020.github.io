@@ -84,8 +84,7 @@ nav li a:hover {
   hyphens:auto;
 } /**** @mixin code taken from Coyier, C. (2018, July 25). CSS-Tricks ****/
 
-/**** body #main_content.inner a...?****/
-a {
+body a {
   @include word-wrap;
 }
 
