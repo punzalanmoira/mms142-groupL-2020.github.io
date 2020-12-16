@@ -4,7 +4,7 @@ layout: default
 
 # Online News Sites as Disruptive Technology
 ***
-| &nbsp;[Home](index)&nbsp; |&nbsp; [About Us](about) &nbsp;|&bsp; [Notes & Drafts](notes_drafts) &nbsp;|
+| &nbsp;[Home](index)&nbsp; |&nbsp; [About Us](about) &nbsp;|&nbsp; [Notes & Drafts](notes_drafts) &nbsp;|
 |:---:|:---:|:---:|
 ***
 ## GROUP L:
