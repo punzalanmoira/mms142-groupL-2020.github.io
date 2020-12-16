@@ -33,7 +33,7 @@
         <nav>
            <div class="topnav">
             <ul class="inner">
-              <li>
+              <li class="table">
                 {% for nav in site.navigation %}
                   {% if nav.url contains "://" %}
                     <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
