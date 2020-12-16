@@ -93,8 +93,8 @@ Added code for smaller devices (codes after 1st block from original css)
 ******************************/
 
 @media screen and (max-width: 600px) {
-  ul.topnav li.inner, 
-  ul.topnav li {float: none;}
+  div.topnav ul.inner, 
+  div.topnav li {float: none;}
 }
 
   nav li a {font-size: 18px;}
