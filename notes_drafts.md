@@ -7,7 +7,7 @@ layout: default
 |:---:|:---:|:---:|
 ***
 
-The Second section of this docs is the Notes and Drafts Page where we input our notes and our research without the need to regard for cohesiveness with the other members, it will be arranged and beta-read in the Final Stage of the docs. Contributions added are notated with our initials (ex. `**KP:** \<notes\>`). [Refer to About Use to know who's who](/mms142-groupL-2020.github.io/about).
+The Second section of this docs is the Notes and Drafts Page where we input our notes and our research without the need to regard for cohesiveness with the other members, it will be arranged and beta-read in the Final Stage of the docs. Contributions added are notated with our initials (ex. `**KP:** \<notes\>`). [Refer to About Us to know who's who](/mms142-groupL-2020.github.io/about).
 
 ## Guide and objectives:
 - define and describe disruptive technologies, give an example of a disruptive technology
