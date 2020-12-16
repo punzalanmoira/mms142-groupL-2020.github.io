@@ -3,8 +3,8 @@ layout: default
 ---
 # Notes and Drafts
 ***
-| &nbsp;[Home](index)&nbsp; |&nbsp; [About Us](about) &nbsp;|
-|:---:|:---:|
+| &nbsp;[Home](index)&nbsp; |&nbsp; [About Us](about) &nbsp;|&bsp; [Notes & Drafts](notes_drafts) &nbsp;|
+|:---:|:---:|:---:|
 ***
 
 The Second section of this docs is the Notes and Drafts Page where we input our notes and our research without the need to regard for cohesiveness with the other members, it will be arranged and beta-read in the Final Stage of the docs. Contributions added are notated with our initials (ex. `**KP:** \<notes\>`). [Refer to About Use to know who's who](/mms142-groupL-2020.github.io/about).
