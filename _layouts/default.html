@@ -31,18 +31,16 @@
         </header>
       
         <nav>
-          <div class="inner">
-            <ul class="topnav">
-              <li>
-                <ul>
-                  {% for nav in site.navigation %}
-                    {% if nav.url contains "://" %}
-                      <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
-                    {% else %}
-                      <li><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></li>
-                    {% end if %}
-                  {% endfor %}
-                </ul>
+           <div class="topnav">
+            <ul>
+              <li class="inner">
+                {% for nav in site.navigation %}
+                  {% if nav.url contains "://" %}
+                    <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
+                  {% else %}
+                    <li><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
               </li>
             </ul>
           </div>
