@@ -92,8 +92,9 @@ Added code for smaller devices (codes after 1st block from original css)
 ******************************/
 
 @media screen and (max-width: 600px) {
-  div.topnav ul.inner, 
+  nav, div.topnav ul.inner, 
   div.topnav li, li.table {
+    display: block;
     float: none;
     padding: 0;
     margin: 0;
@@ -128,8 +129,9 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   *************/
   
-  div.topnav ul.inner, 
+  nav, div.topnav ul.inner, 
   div.topnav li,  li.table {
+    display: block;
     float: none;
     padding: 0;
     margin: 0;
@@ -192,8 +194,9 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   ***************************/
   
-  div.topnav ul.inner, 
+  nav, div.topnav ul.inner, 
   div.topnav li, li.table {
+    display: block;
     float: none;
     padding: 0;
     margin: 0;
