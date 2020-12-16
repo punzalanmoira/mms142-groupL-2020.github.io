@@ -8,7 +8,8 @@ nav {
 }
 
 nav ul.topnav {
-  position: absolute;
+  display: block;
+  position: relative;
   list-style-type: none;
   margin: 10px;
   padding: 0 10px;
@@ -21,7 +22,7 @@ nav li{
   border-radius: 14px;
 }
 
-nav li.inner{
+nav div.inner{
   display: block;
   float: right;
   margin: 0;
