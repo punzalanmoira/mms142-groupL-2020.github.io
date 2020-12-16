@@ -43,5 +43,5 @@ Our content in raw form (Google Docs) https://docs.google.com/document/d/1kMTgAj
 ***
 <br/>
 
-#### Footnotes
+## Footnotes
 <a name="myfootnote1">1</a>: use @up.edu.ph email to access link
