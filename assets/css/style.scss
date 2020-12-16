@@ -28,12 +28,12 @@ nav li.table {
   padding: 0;
   border-right: 0;
   border-radius: 0;
-  background: #ddd
 }
 
 nav div.topnav{
   display: block;
   position: relative;
+  max-width: 640px;
   float: right;
   bottom: 60px;
   padding: 0;
@@ -47,8 +47,8 @@ nav li a {
   padding: 0px 16px;
   background: #212121;
   color: #fff;
-  font-size: 70px;
-  font-weight: 300;
+  font-size: 38px;
+  font-weight: 500;
   text-shadow: #111 0px 0px 10px;
   border-radius: 14px;
 }
