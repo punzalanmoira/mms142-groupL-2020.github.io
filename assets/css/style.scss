@@ -7,7 +7,7 @@ nav {
   background: #212121;
 }
 
-nav ul.topnav {
+nav ul.inner {
   display: block;
   position: relative;
   list-style-type: none;
@@ -31,7 +31,7 @@ nav li.table {
   background: #ddd
 }
 
-nav div.inner{
+nav div.topnav{
   display: block;
   float: right;
   margin: -100;
