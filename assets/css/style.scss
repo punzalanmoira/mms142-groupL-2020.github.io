@@ -8,12 +8,12 @@ nav {
 }
 
 nav ul.topnav {
-  float: none;
   position: sticky;
   top: 0;
+  max-width: 640px;
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 0 10px;
   overflow: hidden;
 }
 
@@ -25,8 +25,7 @@ nav li{
 
 nav li.inner{
   display: block;
-  position: relative;
-  max-width: 640px;
+  float: right;
   margin: 0;
   border-radius: 0;
 }
