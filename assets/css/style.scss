@@ -34,7 +34,7 @@ nav li.table {
 nav div.inner{
   display: block;
   float: right;
-  top: -70px;
+  margin: 0;
   padding: 0;
   border-right: 0;
   border-radius: 0;
@@ -43,11 +43,11 @@ nav div.inner{
 nav li a {
   display: block;
   text-align: center;
-  padding: 14px 16px;
+  padding: 0px 16px;
   background: #212121;
   color: #fff;
   font-size: 25px;
-  font-weight: 500;
+  font-weight: 50;
   text-shadow: #111 0px 0px 10px;
   border-radius: 14px;
 }
