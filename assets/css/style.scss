@@ -9,7 +9,6 @@ nav {
 
 nav ul.inner {
   display: block;
-  position: relative;
   max-width: 640px;
   list-style-type: none;
   margin: 0;
@@ -26,7 +25,7 @@ nav li{
 nav li.table {
   float: right;
   margin: 0;
-  padding: 10px;
+  padding: 0 10px 0 10px;
   border-right: 0;
   border-radius: 0;
 }
@@ -36,7 +35,7 @@ nav div.topnav{
   position: relative;
   float: right;
   bottom: 60px;
-  padding: 0 10px;
+  padding: 0 10px 0 10px;
   border-right: 0;
   border-radius: 0;
 }
