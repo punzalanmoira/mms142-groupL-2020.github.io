@@ -7,7 +7,7 @@ nav {
   background: #212121;
 }
 
-nav div.inner{
+nav div.inner {
   display: block;
   float: right;
   max-width: 640px;
@@ -17,7 +17,7 @@ nav div.inner{
   border-radius: 0;
 }
 
-nav ul.topnav {
+nav ul {
   display: block;
   position: relative;
   list-style-type: none;
@@ -26,7 +26,7 @@ nav ul.topnav {
   overflow: hidden;
 }
 
-nav li{
+nav li.topnav {
   float: left;
   border-right: 2px solid #fff;
   border-radius: 14px;
