@@ -8,11 +8,9 @@ nav {
 }
 
 nav ul.topnav {
-  position: sticky;
-  top: 0;
-  max-width: 640px;
+  position: absolute;
   list-style-type: none;
-  margin: 0;
+  margin: 10px;
   padding: 0 10px;
   overflow: hidden;
 }
@@ -27,6 +25,8 @@ nav li.inner{
   display: block;
   float: right;
   margin: 0;
+  padding: 6px;
+  border-right: 0;
   border-radius: 0;
 }
 
@@ -67,6 +67,7 @@ Added code for smaller devices (codes after 1st block from original css)
 
   nav li a {font-size: 18px;}
 
+/*********/
 @media screen and (max-width: 992px) {
   img {
     max-width: 100%;
@@ -87,11 +88,16 @@ Added code for smaller devices (codes after 1st block from original css)
     max-width: 480px;
   }
 
-  /***added codes***/
+  /*************
+  added codes
+  *************/
+  
   ul.topnav li.inner, 
   ul.topnav li {float: none;}
 
   nav li a {font-size: 16px;}
+  
+  /******* end of own additions***********/
 
   #project_title {
   font-size: 32px;
@@ -141,11 +147,16 @@ Added code for smaller devices (codes after 1st block from original css)
     max-width: 320px;
   }
 
-  /***added codes***/
+  /*********************
+  added codes
+  ***************************/
+  
   ul.topnav li.inner, 
   ul.topnav li {float: none;}
 
   nav li a {font-size: 14px;}
+  
+  /******** edn of edits ************/
 
   #project_title {
   font-size: 28px;
