@@ -10,7 +10,6 @@ nav {
 nav ul.topnav {
   float: right;
   list-style-type: none;
-  position: relative;
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
@@ -62,6 +61,18 @@ ul.topnav li a:hover {
 @mixins
 ********************/
 
+@mixin position($sticky) {
+  -webkit-position: $sticky;
+  -moz-position: $sticky;
+  -ms-position: $sticky;
+   -o-position: $sticky;
+      position: $sticky;
+}
+
+nav ul.topnav {
+  @include position($sticky);
+}
+
 @mixin word-wrap() {
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -77,6 +88,7 @@ ul.topnav li a:hover {
 body a {
   @include word-wrap;
 }
+
 
 /****************************
 Added code for smaller devices (codes after 1st block from original css)
