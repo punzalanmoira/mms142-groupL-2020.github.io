@@ -8,15 +8,15 @@ nav {
 }
 
 nav div.inner2 {
-  position: relative;
-  padding: 0 10px 20px;
-  max-width: 640px;
+  position: static;
+  padding: 0 20px 20px;
   background: #212121;
 }
 
 nav ul.topnav {
   float: right;
   list-style-type: none;
+  max-width: 640px;
   padding: 0;
   margin: 0 auto;
   overflow: hidden;
@@ -36,7 +36,7 @@ ul.topnav li a {
   background-color: #212121;
   color: #fff;
   text-decoration: none;
-  font-size: 70px;
+  font-size: 35px;
   font-weight: 500;
   text-shadow: #111 0px 0px 10px;
   border-radius: 14px;
