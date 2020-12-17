@@ -130,7 +130,7 @@ Added code for smaller devices
   nav div.inner2 {
     min-width: 320px;
     max-width: 480px;
-    padding: 0;
+    padding: 2px 0;;
     margin: 0;
   }
   
@@ -143,7 +143,7 @@ Added code for smaller devices
     border-radius: 0;
   }
 
-  ul.topnav li a {font-size: 28px;}
+  ul.topnav li a {font-size: 28px; border-radius: 0;}
   
   /******* end of own additions***********/
 
@@ -202,7 +202,7 @@ Added code for smaller devices
   nav div.inner2 {
     min-width: 240px;
     max-width: 320px;
-    padding: 0;
+    padding: 2px 0;
     margin: 0;
   }
   
@@ -215,7 +215,7 @@ Added code for smaller devices
     border-radius: 0;
   }
 
-  ul.topnav li a {font-size: 25px;}
+  ul.topnav li a {font-size: 25px; border-radius: 0;}
   
   /******** edn of edits ************/
 
