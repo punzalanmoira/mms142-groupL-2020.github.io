@@ -130,15 +130,16 @@ Added code for smaller devices
   added codes
   *************/
   
-  nav div, div.inner2 {
-    min-width: 320px;
-    max-width: 480px;
+  nav, nav div, div.inner2 {
+    width: auto;
     padding: 0;
     border: 0;
     margin: 0;
   }
   
   ul.topnav, ul.topnav li {
+    min-width: 320px;
+    max-width: 480px;
     display: block;
     float: left;
     padding: 0;
@@ -202,15 +203,16 @@ Added code for smaller devices
   added codes
   ***************************/
   
-  nav div, div.inner2 {
-    min-width: 320px;
-    max-width: 480px;
+  nav, nav div, div.inner2 {
+    width: auto;
     padding: 0;
     border: 0;
     margin: 0;
   }
   
   nav div, ul.topnav, ul.topnav li {
+    min-width: 240px;
+    max-width: 320px;
     display: block;
     float: left;
     padding: 0;
