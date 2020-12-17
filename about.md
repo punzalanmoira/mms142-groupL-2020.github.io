@@ -3,16 +3,7 @@ layout: default
 ---
 
 # About Us
-***
-<p style="text-align:center">
- <table>
-  <tr>
-   <th><a href="index">Home</a></th>
-   <th><a href="about">About Us</a></th>
-  </tr>
- </table>
-</p>
-***
+
 It’s easier to assign roles based on what each member is capable of doing at the moment, so the first section of this Wiki is the About Us Page with the name + role (ex. **FULL NAME (student number)** = research and coding) of each member listed:
 
 | Member                                          | Skills |
@@ -24,4 +15,15 @@ It’s easier to assign roles based on what each member is capable of doing at t
 | **RADIN, MARJORIE IVANA MARIE C. (2017-30833)** | research and writing. I’m not really good in coding. First time to use Github. |
 | **QUILARIO, JEREMY (2015-10259)**               | not that knowledgeable when it comes to coding, but I have done quite a few related projects in the past. Though I lack knowledge and practice, I understand the concept of coding with HTML and CSS, and I think I will be able to get the hang of it.  |
 | **PUNZALAN, MOIRA (2019-01275)**                | I will really do my best to do whatever tasks given especially about writing and research stuff, also amateur editing and coding. |
----
+
+***
+<p style="text-align:center">
+ <table>
+  <tr>
+   <th><a href="index">Home</a></th>
+   <th><a href="about">About Us</a></th>
+  </tr>
+ </table>
+</p>
+***
+<br/>
