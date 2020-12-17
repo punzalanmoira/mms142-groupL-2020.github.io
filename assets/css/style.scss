@@ -8,17 +8,16 @@ nav {
 }
 
 nav div{
+  margin: 0 auto;
   border-left: 2px solid #fff;
   border-right: 2px solid #fff;
 }
 
 nav div.inner2 {
-  max-width: 640px;
+  max-width: 70%;
   padding: 9px 350px;
   background: #000;
   margin: 0 auto;
-  border-left: 2px solid #fff;
-  border-right: 2px solid #fff;
   overflow: hidden;
 }
 
@@ -138,8 +137,6 @@ Added code for smaller devices (codes after 1st block from original css)
   
   ul.topnav, ul.topnav li {
     display: block;
-    min-width: 320px;
-    max-width: 480px;
     float: left;
     padding: 0;
     margin: 0;
@@ -210,8 +207,6 @@ Added code for smaller devices (codes after 1st block from original css)
   
   ul.topnav, ul.topnav li {
     display: block;
-    min-width: 320px;
-    max-width: 480px;
     float: left;
     padding: 0;
     margin: 0;
