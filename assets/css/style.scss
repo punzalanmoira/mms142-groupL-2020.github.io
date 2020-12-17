@@ -17,7 +17,6 @@ nav ul.topnav {
   max-width: 640px;
   padding: 0;
   margin: 0 auto;
-  border-radius: 14px;
   background: #212121;
   overflow: hidden;
 }
@@ -39,6 +38,7 @@ ul.topnav li a {
   font-size: 70px;
   font-weight: 500;
   text-shadow: #111 0px 0px 10px;
+  border-radius: 14px;
 }
 
 ul.topnav li a:hover {
@@ -104,7 +104,7 @@ Added code for smaller devices (codes after 1st block from original css)
   }
 }
 
-  ul.topnav li a {font-size: 18px;}
+  ul.topnav li a {font-size: 30px;}
 
 /*********/
 @media screen and (max-width: 992px) {
@@ -137,7 +137,7 @@ Added code for smaller devices (codes after 1st block from original css)
     margin: 0;
   }
 
-  ul.topnav li a {font-size: 16px;}
+  ul.topnav li a {font-size: 28px;}
   
   /******* end of own additions***********/
 
@@ -199,7 +199,7 @@ Added code for smaller devices (codes after 1st block from original css)
     margin: 0;
   }
 
-  ul.topnav li a {font-size: 14px;}
+  ul.topnav li a {font-size: 25px;}
   
   /******** edn of edits ************/
 
