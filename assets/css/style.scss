@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 nav {
-  background: #000;
+  background: #0F79D0;
 }
 
 nav div{
@@ -130,7 +130,7 @@ Added code for smaller devices
   added codes
   *************/
   
-  nav, nav div, div.inner2 {
+  nav div, div.inner2 {
     width: auto;
     padding: 0;
     border: 0;
@@ -203,7 +203,7 @@ Added code for smaller devices
   added codes
   ***************************/
   
-  nav, nav div, div.inner2 {
+  nav div, div.inner2 {
     width: auto;
     padding: 0;
     border: 0;
