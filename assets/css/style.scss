@@ -16,6 +16,9 @@ nav div.inner2 {
   max-width: 640px;
   padding: 9px 350px;
   background: #000;
+  margin: 0 auto;
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
   overflow: hidden;
 }
 
@@ -128,14 +131,12 @@ Added code for smaller devices (codes after 1st block from original css)
   *************/
   
   div.inner2 {
-    width: auto;
     min-width: 320px;
     max-width: 480px;
-    padding: none;
+    padding: 0;
   }
   
   ul.topnav, ul.topnav li {
-    width: auto;
     display: block;
     min-width: 320px;
     max-width: 480px;
@@ -202,7 +203,6 @@ Added code for smaller devices (codes after 1st block from original css)
   ***************************/
   
   div.inner2 {
-    width: auto;
     min-width: 320px;
     max-width: 480px;
     padding: none;
@@ -210,7 +210,6 @@ Added code for smaller devices (codes after 1st block from original css)
   
   ul.topnav, ul.topnav li {
     display: block;
-    width: auto;
     min-width: 320px;
     max-width: 480px;
     float: left;
