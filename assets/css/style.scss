@@ -4,12 +4,13 @@
 @import "{{ site.theme }}";
 
 nav {
-  background: #212121;
+  background: #000;
 }
 
 nav div.inner2 {
   position: static;
-  padding: 9px 350px 40px;
+  max-width:640px;
+  padding: 9px 350px;
   border-left: 2px solid #fff;
   border-right: 2px solid #fff;
   background: #000;
