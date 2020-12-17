@@ -10,6 +10,8 @@ nav {
 nav div.inner2 {
   position: static;
   padding: 9px 350px 40px;
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
   background: #000;
   overflow: hidden;
 }
@@ -20,7 +22,6 @@ nav ul.topnav {
   padding: 0;
   margin: 0 auto;
   overflow: hidden;
-  height: 1%;
 }
 
 ul.topnav li{
@@ -126,7 +127,6 @@ Added code for smaller devices (codes after 1st block from original css)
   div.inner2 {
     min-width: 320px;
     max-width: 480px;
-    display: flex;
     padding: 0;
   }
   
@@ -197,7 +197,6 @@ Added code for smaller devices (codes after 1st block from original css)
   div.inner2 {
     min-width: 320px;
     max-width: 480px;
-    display: flex;
     padding:0;
   }
   
