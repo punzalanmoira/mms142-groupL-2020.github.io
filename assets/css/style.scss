@@ -102,7 +102,7 @@ body a {
 
 
 /****************************
-Added code for smaller devices (codes after 1st block from original css)
+Added code for smaller devices
 ******************************/
 
 /*********/
@@ -121,7 +121,7 @@ Added code for smaller devices (codes after 1st block from original css)
     display: none;
   }
 
-  .inner, nav {
+  nav, .inner {
     min-width: 320px;
     max-width: 480px;
   }
@@ -130,7 +130,7 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   *************/
   
-  div.inner2 {
+  nav div, div.inner2 {
     min-width: 320px;
     max-width: 480px;
     padding: 0;
@@ -193,7 +193,7 @@ Added code for smaller devices (codes after 1st block from original css)
     display: none;
   }
 
-  .inner, nav {
+  nav, .inner {
     min-width: 240px;
     max-width: 320px;
   }
@@ -202,7 +202,7 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   ***************************/
   
-  div.inner2 {
+  nav div, div.inner2 {
     min-width: 320px;
     max-width: 480px;
     padding: 0;
@@ -210,7 +210,7 @@ Added code for smaller devices (codes after 1st block from original css)
     margin: 0;
   }
   
-  ul.topnav, ul.topnav li {
+  nav div, ul.topnav, ul.topnav li {
     display: block;
     float: left;
     padding: 0;
