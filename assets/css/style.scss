@@ -128,6 +128,8 @@ Added code for smaller devices
   *************/
   
   nav div.inner2 {
+    min-width: 320px;
+    max-width: 480px;
     padding: 0;
     margin: 0;
   }
@@ -198,6 +200,8 @@ Added code for smaller devices
   ***************************/
   
   nav div.inner2 {
+    min-width: 240px;
+    max-width: 320px;
     padding: 0;
     margin: 0;
   }
