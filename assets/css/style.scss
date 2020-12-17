@@ -97,12 +97,11 @@ Added code for smaller devices (codes after 1st block from original css)
 ******************************/
 
 @media screen and (max-width: 600px) {
-  ul.topnav, ul.topnav li {
+  nav, ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
-    margin: 0;
-    border: 0 0 2px 0;
+    margin: 0;;
   }
 }
 
@@ -133,12 +132,11 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   *************/
   
-  ul.topnav, ul.topnav li {
+  nav, ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
     margin: 0;
-    border: 0 0 2px 0;
   }
 
   ul.topnav li a {font-size: 16px;}
@@ -197,12 +195,11 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   ***************************/
   
-  ul.topnav, ul.topnav li {
+  nav, ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
     margin: 0;
-    border: 0 0 2px 0;
   }
 
   ul.topnav li a {font-size: 14px;}
