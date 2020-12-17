@@ -4,16 +4,7 @@ layout: default
 
 # Online News Sites as Disruptive Technology
 ***
-<p style="text-align:center">
- <table>
-  <tr>
-   <th><a href="index">Home</a></th>
-   <th><a href="about">About Us</a></th>
-  </tr>
- </table>
-</p>
 
-***
 ## GROUP L:
 - DI ROCCO, MAJELLA P (2013-81801)
 - PIL, APRIL ROSE B. (2014-67661)
@@ -68,4 +59,15 @@ National Research Council. (2010). 3 The Nature of Disruptive Technologies. In *
 Onikoyi, O. (2020, February 6). *Disruptive innovation in the newspaper industry*. Medium. https://olaonikoyi.medium.com/disruptive-innovation-in-the-newspaper-industry-9f1ef24a9740
 
 St. Petersburg Times. (1980, February 26). *Electronic delivery: the newspaper of the future*. https://news.google.com/newspapers?id=GRsmAAAAIBAJ&sjid=dloDAAAAIBAJ&dq=newspapers&pg=6628%2C2657830
+***
+
+<p style="text-align:center">
+ <table>
+  <tr>
+   <th><a href="index">Home</a></th>
+   <th><a href="about">About Us</a></th>
+  </tr>
+ </table>
+</p>
+
 ***
