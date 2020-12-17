@@ -9,7 +9,7 @@ nav {
 
 nav div.inner2 {
   position: relative;
-  padding: 0 10px;
+  padding: 0 10px 20px;
   max-width: 640px;
   background: #212121;
 }
@@ -97,18 +97,6 @@ body a {
 Added code for smaller devices (codes after 1st block from original css)
 ******************************/
 
-@media screen and (max-width: 600px) {
-  ul.topnav, ul.topnav li {
-    display: block;
-    float: left;
-    padding: 0;
-    margin: 0;
-    border-radius: 0;
-  }
-}
-
-  ul.topnav li a {font-size: 30px;}
-
 /*********/
 @media screen and (max-width: 992px) {
   img {
@@ -133,6 +121,11 @@ Added code for smaller devices (codes after 1st block from original css)
   /*************
   added codes
   *************/
+  
+  div.inner2 {
+    width: 100%;
+    display: block;
+  }
   
   ul.topnav, ul.topnav li {
     display: block;
@@ -197,6 +190,11 @@ Added code for smaller devices (codes after 1st block from original css)
   /*********************
   added codes
   ***************************/
+  
+  div.inner2 {
+    width: 100%;
+    display: block;
+  }
   
   ul.topnav, ul.topnav li {
     display: block;
