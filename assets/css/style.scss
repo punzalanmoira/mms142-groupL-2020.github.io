@@ -9,7 +9,7 @@ nav {
 
 nav div.inner2 {
   position: static;
-  padding: 0 400px 40px;
+  padding: 9px 350px 40px;
   background: #000;
 }
 
@@ -31,12 +31,12 @@ ul.topnav li{
 ul.topnav li a {
   display: block;
   text-align: center;
-  padding: 5px 9x;
+  padding: 7px 10px;
   background-color: #212121;
   color: #fff;
   text-decoration: none;
   font-size: 35px;
-  font-weight: 500;
+  font-weight: 200;
   text-shadow: #111 0px 0px 10px;
   border-radius: 14px;
 }
@@ -124,7 +124,7 @@ Added code for smaller devices (codes after 1st block from original css)
   div.inner2 {
     min-width: 320px;
     max-width: 480px;
-    display: block;
+    display: flex;
   }
   
   ul.topnav, ul.topnav li {
@@ -194,7 +194,7 @@ Added code for smaller devices (codes after 1st block from original css)
   div.inner2 {
     min-width: 320px;
     max-width: 480px;
-    display: block;
+    display: flex;
   }
   
   ul.topnav, ul.topnav li {
