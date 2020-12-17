@@ -11,15 +11,16 @@ nav div.inner2 {
   position: relative;
   width: 640px;
   padding: 9px 350px;
-  border-left: 2px solid #fff;
-  border-right: 2px solid #fff;
   background: #000;
   overflow: hidden;
 }
 
 nav ul.topnav {
   float: right;
+  width:640px;
   list-style-type: none;
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
   padding: 0;
   margin: 0 auto;
   overflow: hidden;
@@ -39,7 +40,7 @@ ul.topnav li a {
   background-color: #212121;
   color: #fff;
   text-decoration: none;
-  font-size: 35px;
+  font-size: 32px;
   font-weight: 200;
   text-shadow: #111 0px 0px 10px;
   border-radius: 14px;
@@ -132,7 +133,7 @@ Added code for smaller devices (codes after 1st block from original css)
   }
   
   ul.topnav, ul.topnav li {
-    display: inline;
+    display: block;
     float: left;
     padding: 0;
     margin: 0;
@@ -202,7 +203,7 @@ Added code for smaller devices (codes after 1st block from original css)
   }
   
   ul.topnav, ul.topnav li {
-    display: inline;
+    display: block;
     float: left;
     padding: 0;
     margin: 0;
