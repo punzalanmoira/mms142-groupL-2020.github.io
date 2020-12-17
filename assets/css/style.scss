@@ -7,6 +7,11 @@ nav {
   background: #000;
 }
 
+nav div{
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
+}
+
 nav div.inner2 {
   max-width: 640px;
   padding: 9px 350px;
@@ -16,10 +21,7 @@ nav div.inner2 {
 
 nav ul.topnav {
   float: right;
-  width: 600px;
   list-style-type: none;
-  border-left: 2px solid #fff;
-  border-right: 2px solid #fff;
   padding: 0 2px;
   margin: 0 auto;
   overflow: hidden;
