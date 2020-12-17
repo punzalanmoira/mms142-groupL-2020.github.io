@@ -32,6 +32,7 @@ nav ul.topnav {
 ul.topnav li{
   float: left;
   border: 2px solid #fff;
+  margin: 3px;
   border-radius: 14px;
   background: #212121;
 }
@@ -133,6 +134,8 @@ Added code for smaller devices (codes after 1st block from original css)
     min-width: 320px;
     max-width: 480px;
     padding: 0;
+    border: 0;
+    margin: 0;
   }
   
   ul.topnav, ul.topnav li {
@@ -202,7 +205,9 @@ Added code for smaller devices (codes after 1st block from original css)
   div.inner2 {
     min-width: 320px;
     max-width: 480px;
-    padding: none;
+    padding: 0;
+    border: 0;
+    margin: 0;
   }
   
   ul.topnav, ul.topnav li {
