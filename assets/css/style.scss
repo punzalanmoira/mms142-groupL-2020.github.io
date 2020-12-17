@@ -94,6 +94,9 @@ body a {
   @include word-wrap;
 }
 
+nav div.inner2 {
+  @include word-wrap;
+}
 
 /****************************
 Added code for smaller devices
@@ -115,7 +118,7 @@ Added code for smaller devices
     display: none;
   }
 
-  .inner, .inner2 {
+  nav, .inner, .inner2 {
     min-width: 320px;
     max-width: 480px;
   }
@@ -181,7 +184,7 @@ Added code for smaller devices
     display: none;
   }
 
-  .inner, .inner2 {
+  nav, .inner, .inner2 {
     min-width: 240px;
     max-width: 320px;
   }
