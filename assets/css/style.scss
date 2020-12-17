@@ -18,7 +18,7 @@ nav ul.topnav {
   list-style-type: none;
   padding: 0;
   margin: 0 auto;
-  overflow: hidden;
+  overflow: auto;
 }
 
 ul.topnav li{
@@ -125,6 +125,7 @@ Added code for smaller devices (codes after 1st block from original css)
     min-width: 320px;
     max-width: 480px;
     display: flex;
+    padding: 0;
   }
   
   ul.topnav, ul.topnav li {
@@ -195,6 +196,7 @@ Added code for smaller devices (codes after 1st block from original css)
     min-width: 320px;
     max-width: 480px;
     display: flex;
+    padding:0;
   }
   
   ul.topnav, ul.topnav li {
