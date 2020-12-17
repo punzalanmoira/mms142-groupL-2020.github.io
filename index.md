@@ -7,8 +7,8 @@ layout: default
 <p style="text-align:center">
  <table>
   <tr>
-   <th><a href="index.md">Home</a></th>
-   <th><a href="about.md">About Us</a></th>
+   <th><a href="index">Home</a></th>
+   <th><a href="about">About Us</a></th>
   </tr>
  </table>
 </p>
