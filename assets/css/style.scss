@@ -69,6 +69,8 @@ ul.topnav li a:hover {
       position: $sticky;
 }
 
+$sticky: sticky;
+
 nav ul.topnav {
   @include position($sticky);
 }
