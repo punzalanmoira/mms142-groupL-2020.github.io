@@ -17,18 +17,16 @@ nav ul.topnav {
   max-width: 640px;
   padding: 0;
   margin: 0 auto;
+  border-radius: 14px;
+  background: #212121;
   overflow: hidden;
 }
 
 ul.topnav li{
   float: left;
-  border-right: 2px solid #fff;
+  border: 2px solid #fff;
   border-radius: 14px;
   background: #212121;
-}
-
-ul.topnav li:lastchild {
-  border-right: none;
 }
 
 ul.topnav li a {
