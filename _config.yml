@@ -9,5 +9,4 @@ navigation:
     url: /
   - title: About Us
     url: about
-  - title: Notes & Drafts
-    url: notes_drafts
+    
