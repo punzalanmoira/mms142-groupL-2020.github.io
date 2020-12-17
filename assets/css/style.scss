@@ -130,9 +130,11 @@ Added code for smaller devices
   nav div.inner2 {
     min-width: 320px;
     max-width: 480px;
-    padding: 2px 0;;
+    padding: 3px 0;;
     margin: 0;
   }
+  
+  ul.topnav {margin-top: 1px;}
   
   ul.topnav, ul.topnav li {
     min-width: 90%;
@@ -140,10 +142,10 @@ Added code for smaller devices
     float: left;
     padding: 0;
     margin: 0;
-    border-radius: 0;
+    border-radius: 3px;
   }
 
-  ul.topnav li a {font-size: 28px; border-radius: 0;}
+  ul.topnav li a {font-size: 28px; border-radius: 3px;}
   
   /******* end of own additions***********/
 
@@ -202,9 +204,11 @@ Added code for smaller devices
   nav div.inner2 {
     min-width: 240px;
     max-width: 320px;
-    padding: 2px 0;
+    padding: 3px 0;
     margin: 0;
   }
+  
+  ul.topnav {margin-top:1px;}
   
   ul.topnav, ul.topnav li {
     min-width: 90%;
@@ -212,10 +216,10 @@ Added code for smaller devices
     float: left;
     padding: 0;
     margin: 0;
-    border-radius: 0;
+    border-radius: 3px;
   }
 
-  ul.topnav li a {font-size: 25px; border-radius: 0;}
+  ul.topnav li a {font-size: 25px; border-radius: 3px;}
   
   /******** edn of edits ************/
 
