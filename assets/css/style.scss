@@ -7,22 +7,20 @@ nav {
   background: #212121;
 }
 
-nav.inner {
+nav ul.topnav {
+  float: right;
+  list-style-type: none;
   position: relative;
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
-}
-
-nav ul.topnav {
-  float: right;
-  list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
 ul.topnav li{
+  float: left;
   border-right: 2px solid #fff;
   border-radius: 14px;
   background: #212121;
@@ -31,8 +29,6 @@ ul.topnav li{
 ul.topnav li:lastchild {
   border-right: none;
 }
-
-ul.topnav li:dir(ltr)
 
 ul.topnav li a {
   display: block;
@@ -87,7 +83,7 @@ Added code for smaller devices (codes after 1st block from original css)
 ******************************/
 
 @media screen and (max-width: 600px) {
-  nav, nav.inner, ul.topnav, ul.topnav li {
+  ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
@@ -123,7 +119,7 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   *************/
   
-  nav, nav.inner, ul.topnav, ul.topnav li {
+  ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
@@ -187,7 +183,7 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   ***************************/
   
-  nav, nav.inner, ul.topnav, ul.topnav li {
+  ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
