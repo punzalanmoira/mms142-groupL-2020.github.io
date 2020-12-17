@@ -11,10 +11,8 @@ nav ul.topnav {
   float: right;
   list-style-type: none;
   max-width: 640px;
-  padding: 20px 10px;
-  margin: 0 auto;
-  margin: 0;
   padding: 0;
+  margin: 0 auto;
   overflow: hidden;
 }
 
@@ -97,8 +95,8 @@ Added code for smaller devices (codes after 1st block from original css)
 ******************************/
 
 @media screen and (max-width: 600px) {
-  nav, ul.topnav, ul.topnav li {
-    display: block;
+  ul.topnav, ul.topnav li {
+    display: inline;
     float: none;
     padding: 0;
     margin: 0;;
@@ -132,8 +130,8 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   *************/
   
-  nav, ul.topnav, ul.topnav li {
-    display: block;
+  ul.topnav, ul.topnav li {
+    display: inline;
     float: none;
     padding: 0;
     margin: 0;
@@ -195,8 +193,8 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   ***************************/
   
-  nav, ul.topnav, ul.topnav li {
-    display: block;
+  ul.topnav, ul.topnav li {
+    display: inline;
     float: none;
     padding: 0;
     margin: 0;
