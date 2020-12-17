@@ -7,40 +7,35 @@ nav {
   background: #212121;
 }
 
-nav ul.inner {
+nav.inner {
+  position: relative;
+  max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+nav ul.topnav {
   display: block;
+  float: right;
   list-style-type: none;
   margin: 0;
   padding: 0 10px;
   overflow: hidden;
 }
 
-nav li{
-  float: left;
+ul.topnav li{
   border-right: 2px solid #fff;
   border-radius: 14px;
-}
-
-nav li.table {
-  float: right;
-  margin: 0;
-  padding: 0 10px 0 10px;
-  border-right: 0;
-  border-radius: 0;
   background: #212121;
 }
 
-nav div.topnav{
-  display: block;
-  position: relative;
-  float: right;
-  bottom: 70px;
-  padding: 10px;
-  border-right: 0;
-  border-radius: 0;
+ul.topnav li:lastchild {
+  border-right: none;
 }
 
-nav li a {
+ul.topnav li:dir(ltr)
+
+ul.topnav li a {
   display: block;
   text-align: center;
   padding: 12px 16px;
@@ -51,17 +46,17 @@ nav li a {
   text-shadow: #111 0px 0px 10px;
 }
 
-nav li a:hover {
+ul.topnav li a:hover {
   background-color: #0F79D0;
   color: #fff;
   font-weight: 700px;
 }
 
-.active {
+ul.topnav li a.active {
   background-color: #0F79D0;
 }
 
-.active:not {
+ul.topnav li.active:not {
   background: #212121;
 }
 
@@ -92,8 +87,7 @@ Added code for smaller devices (codes after 1st block from original css)
 ******************************/
 
 @media screen and (max-width: 600px) {
-  nav, div.topnav ul.inner, 
-  div.topnav li, li.table {
+  nav, nav.inner, ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
@@ -102,7 +96,7 @@ Added code for smaller devices (codes after 1st block from original css)
   }
 }
 
-  nav li a {font-size: 18px;}
+  ul.topnav li a {font-size: 18px;}
 
 /*********/
 @media screen and (max-width: 992px) {
@@ -129,8 +123,7 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   *************/
   
-  nav, div.topnav ul.inner, 
-  div.topnav li,  li.table {
+  nav, nav.inner, ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
@@ -138,7 +131,7 @@ Added code for smaller devices (codes after 1st block from original css)
     border: 0 0 2px 0;
   }
 
-  nav li a {font-size: 16px;}
+  ul.topnav li a {font-size: 16px;}
   
   /******* end of own additions***********/
 
@@ -194,8 +187,7 @@ Added code for smaller devices (codes after 1st block from original css)
   added codes
   ***************************/
   
-  nav, div.topnav ul.inner, 
-  div.topnav li, li.table {
+  nav, nav.inner, ul.topnav, ul.topnav li {
     display: block;
     float: none;
     padding: 0;
@@ -203,7 +195,7 @@ Added code for smaller devices (codes after 1st block from original css)
     border: 0 0 2px 0;
   }
 
-  nav li a {font-size: 14px;}
+  ul.topnav li a {font-size: 14px;}
   
   /******** edn of edits ************/
 
