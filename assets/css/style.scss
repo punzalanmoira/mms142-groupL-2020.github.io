@@ -7,6 +7,10 @@ nav {
   background: #212121;
 }
 
+nav div.inner {
+  padding: 0;
+}
+
 nav ul.topnav {
   float: right;
   list-style-type: none;
@@ -96,8 +100,7 @@ Added code for smaller devices (codes after 1st block from original css)
 
 @media screen and (max-width: 600px) {
   ul.topnav, ul.topnav li {
-    display: inline;
-    float: none;
+    float: left;
     padding: 0;
     margin: 0;;
   }
@@ -131,8 +134,7 @@ Added code for smaller devices (codes after 1st block from original css)
   *************/
   
   ul.topnav, ul.topnav li {
-    display: inline;
-    float: none;
+    float: left;
     padding: 0;
     margin: 0;
   }
@@ -194,8 +196,7 @@ Added code for smaller devices (codes after 1st block from original css)
   ***************************/
   
   ul.topnav, ul.topnav li {
-    display: inline;
-    float: none;
+    float: left;
     padding: 0;
     margin: 0;
   }
