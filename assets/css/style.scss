@@ -121,7 +121,7 @@ Added code for smaller devices
     display: none;
   }
 
-  nav, .inner, nav div.inner2 {
+  .inner, .inner2 {
     min-width: 320px;
     max-width: 480px;
   }
@@ -137,6 +137,7 @@ Added code for smaller devices
   }
   
   ul.topnav, ul.topnav li {
+    min-width: 90%;
     display: block;
     float: left;
     padding: 0;
@@ -191,7 +192,7 @@ Added code for smaller devices
     display: none;
   }
 
-  nav, .inner, nav div.inner2 {
+  .inner, .inner2 {
     min-width: 240px;
     max-width: 320px;
   }
@@ -207,6 +208,7 @@ Added code for smaller devices
   }
   
   ul.topnav, ul.topnav li {
+    min-width: 90%;
     display: block;
     float: left;
     padding: 0;
