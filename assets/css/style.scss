@@ -7,7 +7,7 @@ nav {
   background: #0F79D0;
 }
 
-nav div{
+#header_wrap {
   margin: 0 auto;
   border-left: 2px solid #fff;
   border-right: 2px solid #fff;
@@ -121,7 +121,7 @@ Added code for smaller devices
     display: none;
   }
 
-  nav, .inner {
+  nav, .inner, nav div.inner2 {
     min-width: 320px;
     max-width: 480px;
   }
@@ -130,16 +130,13 @@ Added code for smaller devices
   added codes
   *************/
   
-  nav div, div.inner2 {
-    min-width: 320px;
-    max-width: 480px;
+  div.inner2 {
     padding: 0;
     border: 0;
     margin: 0;
   }
   
   ul.topnav, ul.topnav li {
-    min-width: 100%;
     display: block;
     float: left;
     padding: 0;
@@ -194,7 +191,7 @@ Added code for smaller devices
     display: none;
   }
 
-  nav, .inner {
+  nav, .inner, nav div.inner2 {
     min-width: 240px;
     max-width: 320px;
   }
@@ -203,16 +200,13 @@ Added code for smaller devices
   added codes
   ***************************/
   
-  nav div, div.inner2 {
-    min-width: 240px;
-    max-width: 320px;
+  div.inner2 {
     padding: 0;
     border: 0;
     margin: 0;
   }
   
   ul.topnav, ul.topnav li {
-    min-width: 100%;
     display: block;
     float: left;
     padding: 0;
