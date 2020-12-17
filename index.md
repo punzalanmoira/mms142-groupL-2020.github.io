@@ -4,8 +4,15 @@ layout: default
 
 # Online News Sites as Disruptive Technology
 ***
-| &nbsp;[Home](index)&nbsp; |&nbsp; [About Us](about) &nbsp;|&nbsp; [Notes & Drafts](notes_drafts) &nbsp;|
-|:---:|:---:|:---:|
+<p style="text-align:center">
+ <table>
+  <tr>
+   <th><a href="index.md">Home</a></th>
+   <th><a href="about.md">About Us</a></th>
+  </tr>
+ </table>
+</p>
+
 ***
 ## GROUP L:
 - DI ROCCO, MAJELLA P (2013-81801)
