@@ -5,15 +5,6 @@ layout: default
 # Online News Sites as Disruptive Technology
 ***
 
-## GROUP L:
-- DI ROCCO, MAJELLA P (2013-81801)
-- PIL, APRIL ROSE B. (2014-67661)
-- PILE, KELSEY TIMMERIE V. (2019-30483)
-- PROTUSADA, JANELLE MICA O. (2017-31124)
-- RADIN, MARJORIE IVANA MARIE C. (2017-30833)
-- QUILARIO, JEREMY (2015-10259)
-- PUNZALAN, MOIRA (2019-01275)
-***
 
 <img src="images/Newspapers.jpg">
 <div class="img-with-text">
