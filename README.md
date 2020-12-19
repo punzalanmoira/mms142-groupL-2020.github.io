@@ -9,6 +9,15 @@ By Group L for MMS 142 A.Y. 2020-2021 1st Trimester on Disruptive Technology
 
 Our content in raw form (Google Docs) https://docs.google.com/document/d/1kMTgAjPJbHsjkzWN6ZN_MMdsgqo90pJYYY1zyXOI9e0/edit?usp=sharing <sup>[1](#myfootnote1)</sup>
 
+## GROUP L:
+- DI ROCCO, MAJELLA P (2013-81801)
+- PIL, APRIL ROSE B. (2014-67661)
+- PILE, KELSEY TIMMERIE V. (2019-30483)
+- PROTUSADA, JANELLE MICA O. (2017-31124)
+- RADIN, MARJORIE IVANA MARIE C. (2017-30833)
+- QUILARIO, JEREMY (2015-10259)
+- PUNZALAN, MOIRA (2019-01275)
+
 ## Sources:
 **Page Theme Slate Gihub** https://github.com/pages-themes/slate
 
