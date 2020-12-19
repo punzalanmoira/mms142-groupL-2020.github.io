@@ -10,6 +10,7 @@ layout: default
 <img src="images/Newspapers.jpg">
 <div class="img-with-text">
     <p id="imagecaption">The global Newspaper Industry has been a well-run industry, efficient and competitive since the industrial revolution. In the past it has been able to adapt itself to meet new challenges. It appears, however, the challenge it is facing today through the introduction of this disruptive technology — the internet; threatens to be terminal.</p>
+    <br/>
     <p style="font-size:160%;"><strong>From Print Media to e-Publishing</strong></p>
 </div> 
 
