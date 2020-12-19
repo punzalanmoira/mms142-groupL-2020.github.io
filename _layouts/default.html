@@ -16,7 +16,7 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+            <a id="forkme_banner" href="{{ site.github.repository_url }}" alt="View on GitHub">View on GitHub</a>
           {% endif %}
 
           <h1 id="project_title"><a href="/mms142-groupL-2020.github.io/index">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -36,12 +36,12 @@
             <ul class="topnav">
               {% for nav in site.navigation %}
                 {% if nav.url contains "://" %}
-                  <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
+                  <li><a href="{{ nav.url }}" alt="View {{ nav.title }}">{{ nav.title }}</a></li>
                 {% else %}
-                  <li><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></li>
+                  <li><a href="{{ nav.url | relative_url }}" alt="View {{ nav.title }}">{{ nav.title }}</a></li>
                 {% endif %}
               {% endfor %}
-              <li><a target="_blank" href="{{ site.github.wiki_url }}">View Wiki</a></li>
+              <li><a target="_blank" href="{{ site.github.wiki_url }}" alt="View GitHub Wiki in new tab">View Wiki</a></li>
             </ul>
           </div>
         </nav>
