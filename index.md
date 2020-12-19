@@ -15,6 +15,12 @@ layout: default
 - PUNZALAN, MOIRA (2019-01275)
 ***
 
+<img src="images/Newspapers.jpg">
+<div class="img-with-text">
+    <p id="imagecaption">testing</p>
+    <p style="font-size:160%;">Insert text here.</p>
+</div> 
+
 The innovative shift from physical hand-held newspapers to online news content does not go without criticism. In this report, we discuss how the online distribution of news through online sites, with additional mention to social media, is now a new and common means for how publishers disseminate information to the public, and how these people receive them. We iterate online news sites as one of the many examples of disruptive technology but first and foremost: What is Disruptive Technology?
 
 Coined in 1995 by Christensen (Moore, 2019), disruptive technologies are innovations that displace incumbent establishments by creating a new market, having walked from the ground up. From the name itself, they are to disrupt the current market in ways that completely change the current giants. In terms of how establishments allow for them to be overthrown by rookie innovations, it all comes down to how most pitched innovations are not being taken seriously by the big heads, and thus see no competition or rivalry between present working innovations over unstable and unclear ideas.
