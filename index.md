@@ -18,8 +18,8 @@ The innovative shift from physical hand-held newspapers to online news content d
 
 <img src="images/Newspapers.jpg">
 <div class="img-with-text">
-    <p id="imagecaption">testing</p>
-    <p style="font-size:160%;">Insert text here.</p>
+    <p id="imagecaption">The global Newspaper Industry has been a well-run industry, efficient and competitive since the industrial revolution. In the past it has been able to adapt itself to meet new challenges. It appears, however, the challenge it is facing today through the introduction of this disruptive technology — the internet; threatens to be terminal.</p>
+    <p style="font-size:160%;">From Print Media to e-Publishing</p>
 </div> 
 
 Coined in 1995 by Christensen (Moore, 2019), disruptive technologies are innovations that displace incumbent establishments by creating a new market, having walked from the ground up. From the name itself, they are to disrupt the current market in ways that completely change the current giants. In terms of how establishments allow for them to be overthrown by rookie innovations, it all comes down to how most pitched innovations are not being taken seriously by the big heads, and thus see no competition or rivalry between present working innovations over unstable and unclear ideas.
