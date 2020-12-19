@@ -15,9 +15,8 @@ layout: default
 - PUNZALAN, MOIRA (2019-01275)
 ***
 
-<img src="Newspapers.jpg">
+<img src="images/Newspapers.jpg">
 <div class="img-with-text">
-    <img id="imagewithcaption" src="Newspapers.jpg" alt="Newspaper" />
     <p id="imagecaption">testing</p>
     <p style="font-size:160%;">Insert text here.</p>
 </div> 
