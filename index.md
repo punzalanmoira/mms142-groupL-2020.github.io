@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# The Disruption of Newspaper Industry.
+# The Disruption of Newspaper Industry
 ***
-The innovative shift from physical hand-held newspapers to online news content does not go without criticism. In this report, we discuss how the online distribution of news through online sites, with additional mention to social media, is now a new and common means for how publishers disseminate information to the public, and how these people receive them. We iterate online news sites as one of the many examples of disruptive technology but first and foremost: What is Disruptive Technology?
+*The innovative shift from physical hand-held newspapers to online news content does not go without criticism. In this report, we discuss how the online distribution of news through online sites, with additional mention to social media, is now a new and common means for how publishers disseminate information to the public, and how these people receive them. We iterate online news sites as one of the many examples of disruptive technology but first and foremost: What is Disruptive Technology?*
 
 
 <img src="images/Newspapers.jpg">
