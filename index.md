@@ -17,7 +17,6 @@ layout: default
 
 <img src="Newspapers.jpg">
 <div class="img-with-text">
-    <img src="Newspapers.jpg" alt="Newspaper" />
     <img id="imagewithcaption" src="Newspapers.jpg" alt="Newspaper" />
     <p id="imagecaption">testing</p>
     <p style="font-size:160%;">Insert text here.</p>
