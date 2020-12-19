@@ -16,8 +16,10 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-            <a id="forkme_banner" href="{{ site.github.wiki_url }}">View Wiki</a>
+            <ul>
+              <li><a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a></li>
+              <li><a id="forkme_banner" href="{{ site.github.wiki_url }}">View Wiki</a></li>
+          </ul>
           {% endif %}
 
           <h1 id="project_title"><a href="/mms142-groupL-2020.github.io/index">{{ site.title | default: site.github.repository_name }}</a></h1>
