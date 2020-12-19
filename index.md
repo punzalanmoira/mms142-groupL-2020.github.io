@@ -15,12 +15,12 @@ layout: default
 - PUNZALAN, MOIRA (2019-01275)
 ***
 
-<img src="image/dok.jpg">
+<img src="Newspapers.jpg">
 <div class="img-with-text">
-    <img src="dok.jpg" alt="dok" />
-    <img id="imagewithcaption" src="dok.jpg" alt="dok" />
+    <img src="Newspapers.jpg" alt="Newspaper" />
+    <img id="imagewithcaption" src="Newspapers.jpg" alt="Newspaper" />
     <p id="imagecaption">testing</p>
-    <p style="font-size:160%;">This is a paragraph.</p>
+    <p style="font-size:160%;">Insert text here.</p>
 </div> 
 
 The innovative shift from physical hand-held newspapers to online news content does not go without criticism. In this report, we discuss how the online distribution of news through online sites, with additional mention to social media, is now a new and common means for how publishers disseminate information to the public, and how these people receive them. We iterate online news sites as one of the many examples of disruptive technology but first and foremost: What is Disruptive Technology?
