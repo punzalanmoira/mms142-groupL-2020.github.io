@@ -10,7 +10,7 @@ The member's main roles (note: every decision was made together):
 |:---:|:---:|
 | **PILE, KELSEY TIMMERIE V. (2019-30483)**       | Collating the research notes into the final paper. |
 | **DI ROCCO, MAJELLA P. (2013-81801)**           | Contributor to the research notes. |
-| **PROTUSADA, JANELLE MICA O. (2017-31124)**     | Contributor to the research notes. |
+| **JANELLE MICA O. (2017-31124)**     | Contributor to the research notes. |
 | **PIL, APRIL ROSE B. (2014-67661)**             | Contributor to the research notes and coded the layout of the page. |
 | **RADIN, MARJORIE IVANA MARIE C. (2017-30833)** | Contributor to the research notes. |
 | **QUILARIO, JEREMY (2015-10259)**               | Helped with the layout of the page.  |
